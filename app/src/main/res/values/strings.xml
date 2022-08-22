@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="IntroText">Hello World! My name is January. I love all things arts (performing), crafts and making. Nice to meet you.</string>
+    <string name="buttonText">SAY HELLO!</string>
+</resources>
